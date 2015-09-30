@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易傳義附錄
-#+DATE: 2015-09-23 09:34:45
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 21:55:59.046161
+#+PROPERTY: ID KR1a0061
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二 
 <pb:KR1a0061_WYG_022-1a>¶
 欽定四庫全書¶
 　周易傳義附録卷十二　　　宋　董楷　撰¶
@@ -452,4 +454,3 @@
 　　其間多不可曉者求之於經亦不盡合也¶
 　　　　右第十一章¶
 　周易𫝊義附録卷十二¶
-

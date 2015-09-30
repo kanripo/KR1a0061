@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易傳義附錄
-#+DATE: 2015-09-23 09:34:45
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 21:55:58.951803
+#+PROPERTY: ID KR1a0061
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十上
 <pb:KR1a0061_WYG_019-1a>¶
 欽定四庫全書¶
 　周易傳義附錄卷十上　　　宋　董楷　撰¶
@@ -1208,4 +1210,3 @@
 　¶
 　¶
 　周易傳義附録卷十上¶
-
